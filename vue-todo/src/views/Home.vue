@@ -49,7 +49,7 @@
           class="w-25"></b-form-input>
       </b-form-group>
     <p class="text-end">Total : {{ total }}</p>
-    <TableView v-bind:items="searchQuery"/>  
+    <TableView v-bind:items="searchQuery" v-bind:prevItems="items"/>  
   </div>
 </template>
 

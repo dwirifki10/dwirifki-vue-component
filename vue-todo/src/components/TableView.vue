@@ -52,7 +52,7 @@
         <template #cell(delete)="rowDelete">
           <button
             class="btn btn-danger btn-sm fw-bold"
-            @click="destroy(rowDelete.index)"
+            @click="destroy(rowDelete.item.id)"
             >
             Delete
             </button>
@@ -64,7 +64,10 @@
 <script>
 export default {
   name: 'TableView',
-  props: { items: Array },
+  props: { 
+    items: Array, 
+    prevItems: Array 
+  },
   data() {
     return {
       id: null,
@@ -91,7 +94,8 @@ export default {
       })
       .then((result) => {
         if(result.isConfirmed) {
-          this.items.splice(id, 1);
+          const indexObj = this.prevItems.findIndex((e) => e.id == id);
+          this.prevItems.splice(indexObj, 1);
           this.$swal.fire({
             position: 'center',
             icon: 'success',
@@ -103,7 +107,7 @@ export default {
       })
     },
     modify(){
-      let result = this.items.filter((item) => item.id === this.id);
+      let result = this.prevItems.filter((item) => item.id === this.id);
       result.map((res) => res.message = this.newMessage);
       localStorage.setItem("items",  JSON.stringify(this.items));
       this.hideModal();
