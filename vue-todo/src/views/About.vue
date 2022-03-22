@@ -38,13 +38,13 @@
             image: "boostrap.png",
             title: "Bootstrap-Vue",
             message: "Bootstrap-Vue is a component library based entirely on the hugely popular Bootstrap frontend CSS framework.",
-            link: "https://sweetalert2.github.io/"
+            link: "https://bootstrap-vue.org/"
           },
           { 
             image: "sweetalert.png",
             title: "Sweet Alert", 
             message: "Sweet Alert is a way to customize alerts in your websites. It allows you to change from a standard JavaScript.",
-            link: "https://bootstrap-vue.org/"
+            link: "https://sweetalert2.github.io/"
           }
         ]
       }
