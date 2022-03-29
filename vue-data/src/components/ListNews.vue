@@ -1,5 +1,8 @@
 <template>
   <div class="container mt-4">
+    <div class="alert alert-warning" role="alert">
+      if you just visited this page, please refresh again
+    </div>
     <button class="btn btn-success mb-4" @click="destroy">Hapus Cache</button>
     <div class="row justify-content-between">
       <div class="col-lg-6 mb-5" v-for="item in items" :key="item.index">
@@ -52,7 +55,6 @@ export default {
     this.items = this.getItems;
     if (this.items.length === 0) {
       await this.storeItems();
-      this.$router.push({ name: "Home" });
     }
   },
   computed: {
