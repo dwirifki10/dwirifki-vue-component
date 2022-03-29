@@ -1,4 +1,5 @@
 import axios from "axios";
+const dataJSON = require("./index.json");
 
 const state = () => ({
   items: [],
@@ -33,6 +34,7 @@ const actions = {
         commit("setItems", response.data.articles);
       })
       .catch((err) => {
+        commit("setItems", dataJSON.articles);
         commit("setErrors", err);
       });
   },

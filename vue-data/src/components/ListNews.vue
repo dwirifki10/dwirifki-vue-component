@@ -1,7 +1,9 @@
 <template>
   <div class="container mt-4">
-    <div class="alert alert-warning" role="alert">
-      if you just visited this page, please refresh again
+    <div class="col-lg-12 d-flex justify-content-center">
+      <div class="alert alert-warning col-lg-6" role="alert">
+        If you just visited this page, please refresh again
+      </div>
     </div>
     <button class="btn btn-success mb-4" @click="destroy">Hapus Cache</button>
     <div class="row justify-content-between">
