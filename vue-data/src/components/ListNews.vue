@@ -52,7 +52,7 @@ export default {
     this.items = this.getItems;
     if (this.items.length === 0) {
       await this.storeItems();
-      this.$router.push({ name: "About" });
+      this.$router.push({ name: "Home" });
     }
   },
   computed: {
