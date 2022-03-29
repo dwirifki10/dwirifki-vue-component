@@ -10,7 +10,7 @@ const API = process.env.VUE_APP_API;
 
 axios.defaults.baseURL = API;
 axios.defaults.params = {};
-axios.defaults.params["apiKey"] = "a1ef61d950a8f348338a8c1e562e7985c81b";
+axios.defaults.params["apiKey"] = "secret";
 
 // Import Bootstrap an BootstrapVue CSS files (order is important)
 import "bootstrap/dist/css/bootstrap.css";
