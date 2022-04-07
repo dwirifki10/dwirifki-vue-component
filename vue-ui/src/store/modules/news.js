@@ -1,4 +1,5 @@
 import axios from "axios";
+const dataJson = require("./index.json");
 
 const state = () => ({
   items: [],
@@ -63,6 +64,7 @@ const actions = {
       })
       .catch((err) => {
         commit("setErrors", err);
+        commit("setItems", dataJson.articles);
       });
   },
   searchItems({ commit }, title) {
