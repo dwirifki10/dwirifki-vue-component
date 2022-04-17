@@ -18,7 +18,7 @@
       <v-spacer></v-spacer>
       <div class="d-flex mr-0">
         <v-text-field
-          label="Cari Berita"
+          label="Cari Tugas"
           class="pt-7"
           v-model="title"
         ></v-text-field>
