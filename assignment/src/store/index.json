@@ -1,0 +1,206 @@
+{
+	"status": "ok",
+	"totalResults": 21,
+	"articles": [
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "2 Version Control and Branch Management (Git)",
+			"description": "Belajar tentang version control system (VCS), melakukan instalasi git, kemudian mencoba secara mandiri bagaimana menggunakan git, seperti dasar membuat branch baru, menginisialisasi file ke branch, melakukan commit ke branch dan deploy ke branch github repository.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git)",
+			"urlToImage": "2.png",
+			"publishedAt": "18 Februari 2022",
+			"content": "Karena pada direktori penyimpanan, tugas bersifat private alhasil insight -> network tidak dapat dilihat. kepada mentor/pengawas, saya telah melakukan praktikum ulang dan sudah dipush di repository berbeda berikut link : <a href='https://github.com/dwirifki10/belajar-git/network'>New Repository</a> Tugas dilakukan semirip mungkin dengan document hasil praktikum (report)"
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "3 Introduction UI and UX",
+			"description": "Pembelajaran dilakukan secara Asynchronous (belajar secara mandiri di LMS alterra academy)Perkenalan tentang UI/UX. 4 hal yang harus diperhatikan dalam UX, 4 Pilar dalam UI dan mempelajari mengenai prototype, 3 hal utama dalam prototype. Mengerjakan Quiz tentang UI/UX dan Praktikum",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/3_Introduction%20UI%20and%20UX",
+			"urlToImage": "3.webp",
+			"publishedAt": "21 Februari 2022",
+			"content": "<a href='https://drive.google.com/file/d/1Raixwttn7tZRmSgWlV8JVJLhO_mIDdMx/view'>File PDF dan Document</a>"
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "4 Figma",
+			"description": "Belajar mengenai figma design, membuat grid dan setting up figma. membuat design ulang dari design yang sudah dijelaskan pada section UI/UX serta mengerjakan Quiz mengenai figma.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/4_Figma",
+			"urlToImage": "4.png",
+			"publishedAt": "23 Februari 2022",
+			"content": "Figma adalah editor grafik vektor dan alat prototyping yang terutama berbasis web, dengan fitur offline tambahan yang diaktifkan oleh aplikasi desktop untuk macOS dan Windows."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "5 HTML",
+			"description": "Mempelajari apa itu front-end engineer, Mempelajari apa itu HTML serta tag dan attribute pada HTML, Mempelajari teknik css inline, internal dan external (materi), Mempelajari bootstrap (materi)",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/5_HTML",
+			"urlToImage": "5.png",
+			"publishedAt": "23 Februari 2022",
+			"content": "FRONT END merupakan sebuah bagian dari website yang membuat tampilan yang menarik kepada user. yang harus dikuasai oleh front-end biasanya CSS, HTML dan javascript. HTML (Hypertext Markup Language) merupakan sebuah bahasa markup (standart) yang digunakan untuk membangun dan menampilkan sebuah halaman web."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "6 CSS",
+			"description": "Mempelajari teknik CSS Inline, Mempelajari teknik CSS External, Mempelajari teknik CSS Internal, Mempelajari atribute pada CSS",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/6_CSS",
+			"urlToImage": "6.png",
+			"publishedAt": "28 Februari 2022",
+			"content": "Cascading Style Sheet merupakan aturan untuk mengatur beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemograman.Biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup"
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "7 Bootstrap",
+			"description": "Mempelajari apa itu front-end framework, Menggunakan bootstrap serta membuat tampilan sesuai design yang sudah ditentukan menggunakan bootstrap.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/7_Bootstrap",
+			"urlToImage": "7.png",
+			"publishedAt": "2 Maret 2022",
+			"content": "Front end framework adalah sekumpulan aturan kode yang bisa kita gunakan untuk mempermudah dalam membuat suatu tampilan website."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "8 JavaScript Refreshment",
+			"description": "Belajar mengenai struktur data pada javascript, desctructuring, method, function dan concurrency.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/8_JavaScript%20Refreshment",
+			"urlToImage": "8.png",
+			"publishedAt": "7 Maret 2022",
+			"content": "Javascript merupakan bahasa pemrograman yang high level, scripting, untype dan interpreted. Destructuring merupakan ekspresi dari JavaScript yang memungkinkan untuk menyalin nilai dari array atau properti dari object ke dalam variable yang berbeda."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "9 Clean Code",
+			"description": "Clean Code merupakan istilah untuk kode yang mudah dipahami, mudah dibaca dan diubah oleh programmer.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/9_Clean%20Code",
+			"urlToImage": "9.png",
+			"publishedAt": "10 Maret 2022",
+			"content": "Kiss (Keep it So Simple) Hindari membuat fungsi yang dibuat untuk melakukan A sekaligus, Memodifikasi B, Mengechek Fungsi C Dst. Dry (Don't reapet yourself) Singkatnya kode dapat digunakan terus menerus (reusable)"
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "10 Front End Fundamental",
+			"description": "Mempelajari pengantar front-end developer seperti mengulas balik kembali materi HTML, CSS, JavaScript, Node Js, NPM dan Git. Mengerjakan praktikum CSS, HTML dan Git.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/10_Front%20End%20Fundamental",
+			"urlToImage": "10.png",
+			"publishedAt": "11 Maret 2022",
+			"content": "JavaScript merupakan script atau bahasa scripting yang dapat membuat halaman web menjadi hidup yang memungkinkan adanya interaksi pengguna. NPM singkatan dari Node Package Manager merupakan command line yang dapat menginstall dan menguninstall package, mengelola versi dan dependensi yang diperlukan dalam proyek"
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "11 Vue Fundamental",
+			"description": "mempelajari apa itu Vue, setup Vue dan resources, dasar-dasar Vue, Vue directive event dan method, computed properties dan watchers serta component.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/11_Vue%20Fundamental",
+			"urlToImage": "11.png",
+			"publishedAt": "16 Maret 2022",
+			"content": "Vue merupakan sebuah framework JavaScript untuk mengembangkan tampilan website yang lebih interaktif dan dinamis.  Component merupakan Vue instance yang dapat digunakan kembali dengan nama yang kita definisikan. kita bisa menggunakan komponen ini sebagai kustom elemen di dalam instance root Vue yang dibuat dengan new Vue."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "12 Vue CLI",
+			"description": "Belajar cara menginstall Vue CLI, setting up Vue CLI, membuat program sederhana menggunakan Vue CLI.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/12_Vue%20CLI",
+			"urlToImage": "12.png",
+			"publishedAt": "16 Maret 2022",
+			"content": "komponen file tunggal memungkinkan kita membangun seluruh komponen (struktur, gaya dan fungsi) dalam satu file."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "13 Vue Component",
+			"description": "Live Demo Todo Apps Hasil Praktikum https://dwirifki-vue-todo.netlify.app/ mempelajari teknik modul import, eksport pada vue, belajar mengenai component dan penerapan component pada vue juga dasar-dasar lifecycle hooks pada vue.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/13_Vue%20Component",
+			"urlToImage": "13.png",
+			"publishedAt": "22 maret 2022",
+			"content": "Membuat todo list dengan fungsi tambah, ubah, hapus dan juga read (CRUD). Saya mencoba menambahkan dan membuat penyimpanan localstorage untuk menyimpan hasil 'list'. saat halaman ditutup kemudian dibuka kembali maka akan mengambil data pada localstorage kemudian ditampilkan setelah DOM dirender dengan memanfaatkan lifecycle hook mounted."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "14 Vue Helper",
+			"description": "Adapun demo live app : https://dwirifki-vue-helper.netlify.app/ belajar mengenai navigasi menggunakan router, manajemen state global menggunakan vuex, library persistedstate dan secure-ls.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/14_Vue%20Helper",
+			"urlToImage": "14.png",
+			"publishedAt": "25 maret 2022",
+			"content": "Layout adalah susunan tata letak, sedangkan layout template pada vue adalah komponen yang dapat dipakai sebagai susunan tata letak dasar yang membungkus masing-masing halaman. Penyimpanan Global adalah sebuah metode untuk menyimpan variable yang dapat diakses dengan mudah di seluruh bagian aplikasi."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "15 Vue Data",
+			"description": "https://dwirifki-vue-data.netlify.app/ belajar bagaimana cara mengolah data di vue menggunakan service (api), melakukan praktikum menggunakan api public untuk mengolah dan menampilkan data dari api.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/15_Vue%20Data",
+			"urlToImage": "15.png",
+			"publishedAt": "29 Maret 2022",
+			"content": "Data Fetching merupakan pengambilan data oleh program perangkat lunak atau skrip. setelah diambil, data dipindahkan ke lokasi alternatif atau ditampilkan di layar. jika request merupakan permohonan pengambilan data maka request queries adalah syarat yang menyatakan data seperti apa ingin diambil."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "16 Vue Quality Control",
+			"description": "melakukan proses debugging dan mempelajari debugging menggunakan console.log, mengindentifikasi kesalahan dengan console.log dan melakukan unit testing dengan jest.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/16_Vue%20Quality%20Control",
+			"urlToImage": "16.png",
+			"publishedAt": "31 Maret 2022",
+			"content": "Debugging adalah proses mengindentifikasi dan menghilangkan kesalahan dari perangkat lunak komputer. Unit Test Proses verifikasi bahwa kode kita benar-benar berperilaku seperti yang diharapkan dan validasi bahwa kode kita tetap benar sepanjang masa aplikasi."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "17 Vue UI Framework",
+			"description": "belajar mengenai UI Framework di vue, seperti vuetify dan boostrap vue, melakukan praktikum menggunakan Vue UI Framework menggunakan vuetify.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/17_Vue%20UI%20Framework",
+			"urlToImage": "17.png",
+			"publishedAt": "5 April 2022",
+			"content": "UI Framework merupakan UI Framework yang dapat membantu aplikasi web dengan tampilan yang baik terlihat profesional. teridiri dari kumpulan element visual dan fungsionalitas yang dapat dipakai secara instan."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "18 Work Together With Product - Backend - DevOps",
+			"description": "https://dwirifki-vue-ui.netlify.app/ Belajar mengenai cara development bersama product, backend dan devops. perbedaan dari kerja product, backend dan devops.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/18_Work%20Together%20With%20Product%20-%20Backend%20-%20DevOps",
+			"urlToImage": "18.png",
+			"publishedAt": "7 April 2022",
+			"content": "Tim Backend Pengembangan backend mengacu pada pengembangan sisi server. ini berfokus pada database, scripting dan arsitektur. Tim Devops Tim yang bertujuan untuk mempersingkat siklus hidup pengembangan sistem dan menyediakan pengiriman lanjutan dengan kualitas perangkat lunak yang tinggi. Tim Produk Tim pengembangan produk adalah sekelompok orang yang mengawasi proses design produk baru."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "19 Vue With Nuxt",
+			"description": "Belajar cara menginstall dan mengkonfigurasi file pada nuxt, melakukan praktikum pada nuxt, perbedaan SSR dan SSG dan SEO.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/19_Vue%20With%20Nuxt",
+			"urlToImage": "19.png",
+			"publishedAt": "11 April 2022",
+			"content": "SSG kepanjangan dari static site generation metode pengembangan ini lebih cocok untuk situs web yang tidak memiliki halaman dinamis. SSR kepanjangan dari server side rendering metode pengembangan ini adalah solusi terbaik untuk proyek dimana halaman dibuat secara real time."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "20 Introduction Algorithm",
+			"description": "Belajar mengenai algoritma, apa itu algoritma dan menyusun algoritma ke dalam flowchart dan pseudocode.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/20_Introduction%20Algorithm",
+			"urlToImage": "20.png",
+			"publishedAt": "14 April 2022",
+			"content": "Algoritma adalah prosedur komputasi yang didefinisikan dengan baik yang mengambil beberapa nilai sebagai input dan menghasilkan beberapa nilai sebagai output."
+		},
+		{
+			"source": { "id": null, "name": "dwirifki10" },
+			"author": "Dwi Rifki Novianto",
+			"title": "21 Understanding GraphQL Basic",
+			"description": "Mempelajari dan melakukan praktikum bagaimana menggunakan hasura untuk melakukan request dengan GraphQL, belajar tentang mutation, query dan subscription.",
+			"url": "https://github.com/dwirifki10/vue_dwi-rifki-novianto/tree/main/21_Understanding%20GraphQL%20Basic",
+			"urlToImage": "21.png",
+			"publishedAt": "16 April 2022",
+			"content": "GraphQL adalah sebuah bahasa query untuk API dan server side runtime untuk mengeksekusi dengan menggunakan tipe yang telah didefinisikan pada data. dengan GraphQL kita bisa menggunakan single endpoint untuk beberapa request yang dibutuhkan."
+		}
+	]
+}
